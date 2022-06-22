@@ -1,0 +1,14 @@
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.exe
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.deps.json
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.runtimeconfig.json
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.runtimeconfig.dev.json
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.dll
+D:\Training\dotnet\code\MethodIndexers\bin\Debug\netcoreapp3.1\MethodIndexers.pdb
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.csproj.AssemblyReference.cache
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.AssemblyInfoInputs.cache
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.AssemblyInfo.cs
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.dll
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.pdb
+D:\Training\dotnet\code\MethodIndexers\obj\Debug\netcoreapp3.1\MethodIndexers.genruntimeconfig.cache

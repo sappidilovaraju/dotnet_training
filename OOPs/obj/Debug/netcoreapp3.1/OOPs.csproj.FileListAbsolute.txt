@@ -1,0 +1,14 @@
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.exe
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.deps.json
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.runtimeconfig.json
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.runtimeconfig.dev.json
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.dll
+D:\Supports\Anand\OOPs\bin\Debug\netcoreapp3.1\OOPs.pdb
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.csproj.AssemblyReference.cache
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfoInputs.cache
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfo.cs
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.csproj.CoreCompileInputs.cache
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.dll
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.pdb
+D:\Supports\Anand\OOPs\obj\Debug\netcoreapp3.1\OOPs.genruntimeconfig.cache

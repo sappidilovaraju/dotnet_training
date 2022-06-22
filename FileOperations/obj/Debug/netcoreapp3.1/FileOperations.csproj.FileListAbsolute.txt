@@ -1,0 +1,15 @@
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.exe
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.deps.json
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.runtimeconfig.json
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.runtimeconfig.dev.json
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.dll
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.pdb
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.csproj.AssemblyReference.cache
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.AssemblyInfoInputs.cache
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.AssemblyInfo.cs
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.dll
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.pdb
+D:\Training\dotnet\code\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.genruntimeconfig.cache
+D:\Training\dotnet\code\FileOperations\bin\Debug\netcoreapp3.1\files\TextFile.txt

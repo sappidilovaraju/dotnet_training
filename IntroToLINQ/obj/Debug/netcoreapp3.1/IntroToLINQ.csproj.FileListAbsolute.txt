@@ -1,0 +1,14 @@
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.exe
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.deps.json
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.runtimeconfig.json
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.runtimeconfig.dev.json
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.dll
+D:\Training\dotnet\code\IntroToLINQ\bin\Debug\netcoreapp3.1\IntroToLINQ.pdb
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.csproj.AssemblyReference.cache
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.AssemblyInfoInputs.cache
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.AssemblyInfo.cs
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.dll
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.pdb
+D:\Training\dotnet\code\IntroToLINQ\obj\Debug\netcoreapp3.1\IntroToLINQ.genruntimeconfig.cache

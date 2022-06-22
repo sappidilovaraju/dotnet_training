@@ -1,0 +1,6 @@
+D:\Training\dotnet\code\BasicMath\bin\Debug\BasicMath.dll
+D:\Training\dotnet\code\BasicMath\bin\Debug\BasicMath.pdb
+D:\Training\dotnet\code\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+D:\Training\dotnet\code\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\code\BasicMath\obj\Debug\BasicMath.dll
+D:\Training\dotnet\code\BasicMath\obj\Debug\BasicMath.pdb

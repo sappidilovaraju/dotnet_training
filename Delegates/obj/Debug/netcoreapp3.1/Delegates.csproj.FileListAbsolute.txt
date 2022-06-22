@@ -1,0 +1,14 @@
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\Training\dotnet\code\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\Training\dotnet\code\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
