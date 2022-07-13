@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7hYLZpZom95DwaBHc13nswMZrbqGV94IJrVhUg3eLINR2kF3ur12mnt8gQe1JzjYpO7LchVHZj0vSk0Hg0vAw==",
+  "dgSpecHash": "fVf6ICaXQlcej+Vg3R5VuOZCJhmaAHVJ2lI0atNPGcXzI6Dv0VtUsDBccOTYshw5e0kuiq63H2OIXRIXouE/mg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\dotnet\\code\\FirstWeb.Api\\FirstWeb.Api.csproj",
+  "projectFilePath": "D:\\Training\\dotnet\\dotnet_training\\FirstWeb.Api\\FirstWeb.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
